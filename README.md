@@ -72,6 +72,5 @@ OPP/
 │   ├── 04_Polimorfismo.cs
 │   ├── 05_Abstracao.cs
 │   └── 06_PropriedadesIndexers.cs
-├── Program.cs
-└── README.md
+└── Program.cs
 ```
