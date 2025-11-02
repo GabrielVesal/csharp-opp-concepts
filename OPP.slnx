@@ -1,0 +1,16 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="01_ClassesEObjetos.cs" />
+    <File Path="02_Encapsulamento.cs" />
+    <File Path="03_Heranca.cs" />
+    <File Path="04_Polimorfismo.cs" />
+    <File Path="05_Abstracao.cs" />
+    <File Path="Examples/01_ClassesEObjetos.cs" />
+    <File Path="Examples/02_Encapsulamento.cs" />
+    <File Path="Examples/03_Heranca.cs" />
+    <File Path="Examples/04_Polimorfismo.cs" />
+    <File Path="Examples/05_Abstracao.cs" />
+    <File Path="Program.cs" />
+  </Folder>
+  <Project Path="OPP/OPP.csproj" Id="9c611057-2169-427e-893d-844b593e2de0" />
+</Solution>
